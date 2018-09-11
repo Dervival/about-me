@@ -10,3 +10,6 @@ logs
 
 # Optional eslint cache
 .eslintcache
+
+# Adding the oldapp.js - keeping it as an local reference only
+oldapp.js
