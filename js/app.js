@@ -1,3 +1,6 @@
+//9-12-2018: I'm an idiot and forgot the use strict requirement >.<
+'use strict';
+
 //Getting a username - if the user hits enter without typing anything, it's an empty string;
 // if they hit cancel, it's a null value. Repeat this cycle until there's valid input.
 var username = '';
